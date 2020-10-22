@@ -1,7 +1,8 @@
+import App from './App.js';
 import React from 'react';
 import ReactDOM from 'react-dom';;
 
-ReactDOM.render(<h1>YO</h1>,
+ReactDOM.render(<App />,
   document.getElementById('root')
 );
 
